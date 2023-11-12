@@ -42,7 +42,7 @@ let svenskaTal = [
 
 let alignment = ["left", "center", "right"];
 
-let unique = [4, 1, 5];
+let unique = [4, 8, 5];
 
 for (let i = 0; i < 3; i++) {
   const ol = document.createElement("ul");
